@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.00 153.00"
+     width="93" height="153" role="img" aria-label="core-keys">
+  <title>core-keys</title>
+  <g fill="none" stroke-width="13.00">
+    <circle cx="46.50" cy="106.50" r="40.00" stroke="#6D5EF0"/>
+    <circle cx="46.50" cy="46.50" r="40.00" stroke="#9BB0EE"/>
+    <path d="M 10.11 89.90 A 40.00 40.00 0 0 1 34.57 68.32"
+          stroke="#6D5EF0" stroke-linecap="butt"/>
+  </g>
+  <circle cx="46.50" cy="76.50" r="8.06" fill="#8B7DFF"/>
+  <circle cx="46.50" cy="76.50" r="4.42" fill="#E9E6FF"/>
+</svg>

@@ -1,4 +1,6 @@
-# core-keys
+<p align="center">
+  <img src="https://raw.githubusercontent.com/core-keys/.github/main/brand/banner.png" alt="core-keys — split-key authenticator" width="800">
+</p>
 
 A **split-key hardware authenticator for SSH and FIDO2**: the desktop daemon and
 a dedicated hardware device must both participate in every authentication, and
