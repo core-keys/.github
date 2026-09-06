@@ -284,6 +284,7 @@ if __name__ == "__main__":
         banner(label, name="banner-%s.png" % repo)
     avatar()
     mark_only()
-    social("prototype")
+    for repo, label in REPOS.items():
+        social(label, name="social-%s.png" % repo)
     svg()
     distribute()

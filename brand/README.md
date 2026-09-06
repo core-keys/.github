@@ -30,7 +30,7 @@ same face and tracking the device renders into `img_wordmark`.
 | `banner-<repo>.png` | 1600×400 | README header, pinned to `width="800"`. Copied into each repo as `.github/banner.png` by `render.py`. |
 | `banner.png` | 1600×400 | the same, without a component label |
 | `avatar.png` | 460×460 | organization avatar. Margin is deliberate so a circular crop never clips the rings. |
-| `social.png` | 1280×640 | GitHub social preview / og:image (that is GitHub's exact expected size) |
+| `social-<repo>.png` | 1280×640 | GitHub social preview / og:image, per repo (that is GitHub's exact expected size). Upload under *Settings → General → Social preview*; there is no API for it. |
 | `mark.png` | 512×512 | mark alone, transparent background |
 | `logo.svg` | vector | mark alone. No glow: the lit core is a screen effect for the device's dark panel, and the vector has to stay legible anywhere. |
 
